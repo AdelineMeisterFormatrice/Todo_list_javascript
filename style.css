@@ -1,0 +1,25 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+#pageListe.classAff {
+	background-color: #FAF2AD;
+	padding: 20px;
+	font-family: cursive;
+}
+
+#pageListe.classAff ul {
+	margin: 10px 0px;
+	padding: 20px;
+	border-left: 4px double red;
+}
+
+#pageListe.classAff li {
+	list-style-type: none;
+	margin: 0px -20px;
+	padding-left: 26px;
+	border-bottom: 1px solid blue;
+	line-height: 36px;
+	font-size: 24px;
+	font-family: cursive;
+}
